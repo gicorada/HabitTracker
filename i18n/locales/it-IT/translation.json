@@ -1,0 +1,24 @@
+{
+  "language": "Lingua",
+  "home": {
+    "title": "Home"
+  },
+  "history": {
+    "title": "Storico"
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "email": "Email",
+    "fullName": "Nome Completo",
+    "loading": "Caricamento...",
+    "update": "Aggiorna",
+    "signOut": "Esci"
+  },
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Entra",
+    "signUp": "Registrati"
+  }
+}
